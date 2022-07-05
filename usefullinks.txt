@@ -1,1 +1,2 @@
 https://djangostars.com/blog/configuring-django-settings-best-practices/
+https://stackoverflow.com/questions/24022558/differences-between-staticfiles-dir-static-root-and-media-root  #regarding static root
